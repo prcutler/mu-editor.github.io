@@ -31,10 +31,10 @@ buttons:
   <br/>
 </div>
 
-The "Serial" button opens a serial data connection to the ESP board you
+The "Serial" button opens a serial data connection to the Adafruit board you
 may have connected to your computer. This will result in a new pane between the
 text editor and Mu's footer. Any serial data emitted from the device will
-appear here. If you need to drop into the MicroPython REPL you should make
+appear here. If you need to drop into the CircuitPython REPL you should make
 sure the pane has keyboard focus (just click it!) and then type CTRL-C, as
 shown below:
 
