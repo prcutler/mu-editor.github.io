@@ -4,7 +4,7 @@ title: ESP Boards and Mu
 i18n: en
 ---
 
-# ESP822 and ESP32 boards and Mu
+# ESP8266 and ESP32 boards and Mu
 
 ESP8266 and ESP32 boards are small, cheap and connect to the Internet.  
 These boards are capable of running 
